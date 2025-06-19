@@ -763,11 +763,11 @@
       "description": "A chess robotic arm that is capable of playing chess against a human using computer vision and inverse kalematics and Ai chess algorithm to make it able to play chess and we also added an easy interface web application and a mobile application as well that u can play offline chess and also against the computer itself and we also added a learning chess academy for both the the web and the app there is also Information about the history of chess legends and about there techniques so this is not just an entertainment robotic arm its also for learning and knowing more about the game",
       "department": "ai",
       "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_5.jpg",
         "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_1.jpg",
         "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_2.jpg",
         "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_3.jpg",
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_4.jpg",
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_5.jpg"
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_4.jpg"
       ],
       "video": "https://drive.google.com/drive/folders/1e6Hp3MQ3BXOI0WwXwZjTu7JadHA_Zdmd",
       "tags": [
