@@ -684,10 +684,14 @@
         "role": "Project Lead"
       },
       "teamMembers": [
-        "Ahmed Waleed Mohamed                                           Ali Akram Abdelmohsen",
-        "Mohamed Khaled Saied                                              Hassan Hamdy Abdellah",
-        "Mahmoud Ahmed Gaber                                             Ahmed Abdellah Ahmed",
-        "Mohamed Mostafa Shawqy                                         Osama Hany Huesin"
+        "Ahmed Waleed Mohamed",
+        "Ali Akram Abdelmohsen",
+        "Mohamed Khaled Saied",
+        "Hassan Hamdy Abdellah",
+        "Mahmoud Ahmed Gaber",
+        "Ahmed Abdellah Ahmed",  
+        "Mohamed Mostafa Shawqy",
+        "Osama Hany Huesin"
       ],
       "supervisors": [
         "Dr. Sayed El far -- Eng. Amany"
