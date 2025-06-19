@@ -666,7 +666,7 @@
     },
     "aegis-ai": {
       "title": "AEGIS-AI",
-      "description": "This project, titled \"Aegis AI,\" presents \nthe complete design, development, training, \nand deployment of a comprehensive, web\nbased system built from scratch for the real\ntime detection and classification of these \ndiverse digital threats. The core of the system \nis a custom-trained Natural Language \nProcessing (NLP) model based on the robust \nDistilBERT architecture. Recognizing the \nlimitations of generic models, we curated and \naugmented a specialized dataset of 7,500 text \nsamples. This dataset was meticulously \nstructured to cover 14 distinct categories: 13",
+      "description": "Aegis AI is a full web-based system designed, built, trained, and deployed from scratch to detect and classify online threats in real time, powered by a custom-trained DistilBERT-based NLP model using a curated dataset of 7,500 text samples across 14 categories (13 threat types + 1 safe), integrated via a Flask API with a simple HTML/CSS/JS front-end, utilizing VirusTotal API for link analysis, and publicly hosted on Hugging Face Spaces to provide users with a smart, accessible, and effective cybersecurity tool.",
       "department": "cybersecurity",
       "images": [
         "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/AEGIS-AI/image_1.jpg",
