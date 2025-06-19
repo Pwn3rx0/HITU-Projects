@@ -103,9 +103,9 @@
       "description": "This project presents a small-scale prototype of a Smart City that utilizes modern technologies such as the Internet of Things (IoT), Artificial Intelligence (AI), and various sensors. The model integrates multiple smart systems including traffic control, energy management, security, and smart lighting to create a more efficient and comfortable living environment.\n\nProject Components:\n\nESP32 Microcontroller\n\nUltrasonic sensors for managing city and garage gates\n\nIR sensors to detect vehicle presence\n\nServo motors for automatic gate control\n\nLCD screens to display welcome and goodbye messages\n\nSmart lighting that activates based on motion or ambient light",
       "department": "ai",
       "images": [
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_1.jpg",
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_3.jpg",
         "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_2.jpg"
 
       ],
       "video": "https://drive.google.com/drive/folders/1jIkloCXDj05yt2A9DeBp8Ta34CktpxTW",
@@ -918,7 +918,49 @@
       "Dr. Mohsen Bendary",
       "Eng. abdlaziz"]
     },
-    "smart-ai-hospital-system": {
+    "smart-glove": {
+  "title": "Smart Glove",
+  "description": "This project introduces a Smart Glove designed to translate sign language into spoken and written human language using advanced sensor technology and AI. The glove integrates Flex sensors and an MPU6050 sensor to capture numerical representations of hand gestures. These readings are processed by a trained AI model capable of predicting corresponding letters or words. A Flask-based backend handles the translation and delivers output to a responsive web interface supporting both Arabic and English languages, including text-to-speech functionality. Communication between the glove and the web interface is achieved over Wi-Fi via an ESP32 microcontroller, assuming both are connected to the same local network. A CSV dataset within the project enables accurate mapping of sensor input to meaningful text.",
+  "department": "ds",
+  "images": [
+    "IMAGE_URL_1",
+    "IMAGE_URL_2",
+    "IMAGE_URL_3",
+    "IMAGE_URL_4",
+    "IMAGE_URL_5"
+  ],
+  "video": "https://drive.google.com/drive/my-drive",
+  "tags": [
+    "AI",
+    "IoT",
+    "Python",
+    "C++",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap"
+  ],
+  "teamLeader": {
+    "name": "Mostafa Magdy Abdelhamid",
+    "role": "Project Lead"
+  },
+  "teamMembers": [
+    "Ali Amr Salah",
+    "Ahmed Mohamed Mokhtar",
+    "Angel Atef Milad",
+    "Basmala Bedeawy Ali",
+    "Donia Fathy Shaaban",
+    "Omar Waleed Samir",
+    "Marko Adel Fahim",
+    "Mostafa Mohamed Samir",
+    "Youhanna George Yacoub"
+  ],
+  "supervisors": [
+    "Dr. Abdelsalam Helmy",
+    "Eng. Abdelaziz Ahmed"
+  ]
+  },
+  "smart-ai-hospital-system": {
   "title": "Smart AI Hospital System",
   "description": "This project delivers an intelligent, fully integrated hospital‑management platform that unifies administrative and clinical operations on a single digital backbone. It supports multilingual workflows (Arabic, English, and more) and offers comprehensive handling of personal details, medical records, specialist notes, laboratory results, radiology images, and longitudinal health data. Patients log in to secure personal dashboards to review their complete records, while authorised staff manage doctors, nurses, emergency physicians, ICU teams, lab and radiology technicians, and administrative users through role‑based access controls.\n\nA flagship capability is the Smart Emergency Request: one press of the SOS button on a patient’s dashboard transmits a real‑time alert—with live geolocation—to the hospital’s emergency desk. Staff immediately see the patient’s full profile and can dispatch an appropriate medical team to the reported location.\n\nKey features include:\n• Multilingual user interface\n• End‑to‑end patient, doctor, and staff management\n• Live‑location emergency alerts\n• Digital patient profiles (reports, labs, imaging)\n• Role‑based permissions (admin, doctor, nurse, etc.)\n• Modern 3‑D‑style user experience\n• Scalable architecture suitable for hospitals, clinics, and health centres",
   "department": "health‑informatics",
