@@ -891,6 +891,11 @@
       "description": "A smart text-to-speech system that analyzes written messages, detects the sentiment (positive, negative, neutral), identifies the topic, and reads the results using natural-sounding speech. The goal is to help users and companies quickly understand large amounts of written feedback. We built both a web application and an offline desktop app with a simple interface, where users can interact with the system easily. The project also includes educational sections to learn about speech processing and NLP techniques. This is not just a technical project, it’s also designed for learning and real-world use.",
       "department": "ai",
       "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/text-to-speech/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/text-to-speech/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/text-to-speech/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/text-to-speech/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/text-to-speech/image_5.jpg"
        ],
       "video": "https://drive.google.com/file/d/1Lg0mKtg8g0kEbsUme5kVDlh41JgWjukp/view?usp=sharing",
       "tags": ["Text to Speech", "Sentiment Analysis", "Python", "HTML", "CSS", "Java"],
