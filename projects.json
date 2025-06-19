@@ -103,9 +103,11 @@
       "description": "This project presents a small-scale prototype of a Smart City that utilizes modern technologies such as the Internet of Things (IoT), Artificial Intelligence (AI), and various sensors. The model integrates multiple smart systems including traffic control, energy management, security, and smart lighting to create a more efficient and comfortable living environment.\n\nProject Components:\n\nESP32 Microcontroller\n\nUltrasonic sensors for managing city and garage gates\n\nIR sensors to detect vehicle presence\n\nServo motors for automatic gate control\n\nLCD screens to display welcome and goodbye messages\n\nSmart lighting that activates based on motion or ambient light",
       "department": "ai",
       "images": [
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smartcity/image_1.png",
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smartcity/image_2.png",
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smartcity/image_3.png"
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_City/image_5.jpg"
 
       ],
       "video": "https://drive.google.com/drive/folders/1jIkloCXDj05yt2A9DeBp8Ta34CktpxTW",
