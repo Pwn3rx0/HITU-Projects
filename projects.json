@@ -337,40 +337,6 @@
         "Eng. Shimaa Mohamed"
       ]
     },
-    "fire-fighting-robot": {
-      "title": "Fire Fighting Robot",
-      "description": "The Fire Fighting Robot is an intelligent robotic system designed to detect and extinguish fires in indoor environments safely and efficiently. The robot relies on sensors such as flame and temperature sensors (MLX90614) to identify the presence of fire and operates in two modes:\n\t•\tAutomatic mode: The robot detects the fire on its own and activates the extinguishing mechanism (water pump or fan).\n\t•\tManual mode: The robot can be controlled remotely via Bluetooth using a mobile phone.\n\nThe system is built using an Arduino Mega microcontroller, DC motors, flame and temperature sensors, a servo motor, a water pump, and a relay module, all powered by rechargeable batteries. The code is written in C/C++ using the Arduino IDE.\n\nThe goal of the project is to provide a practical and intelligent solution for early fire response, reducing risks to human life and property in hazardous environments",
-      "department": "ai",
-      "images": [
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_1.jpg",
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_2.jpg",
-        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_3.jpg"
-      ],
-      "video": "https://drive.google.com/file/d/1-IlUflIlytHx-5grHANvLTQH6WfH1O7C/preview?usp=drivesdk",
-      "tags": [
-        "C", "C++", "Arduino IDE", "UART", "I2C", "Bluetooth", "Sensors"
-      ],
-      "teamLeader": {
-        "name": "Abdelrahman Yasser Ahmed Youssef",
-        "role": "Project Lead"
-      },
-      "teamMembers": [
-        "1. Abdelrahman Yasser Ahmed Youssef",
-        "2.\tAssem Mohamed Abdelsabour Mohamed",
-        "3.\tRawan Mohamed Hassan Ali",
-        "4.\tMenna Allah Ahmed Mohamed",
-        "5.\tHady Adel Mohamed Abdelhady",
-        "6.\tAya Elsayed Mohamed Abdelghafar",
-        "7.\tYasmin Sobhy Mohamed Elsayed",
-        "8.\tAbdelrahman Hossam Eldin Aly Dahlen",
-        "9.\tHamza Sayed Amin Adly ElBangi",
-        "10.\tAboubakr Mohamed Taher Hassan"
-      ],
-      "supervisors": [
-        "1- Dr. Kirolos Khalaf Salim",
-        "2- Eng. Mohamed Ammar"
-      ]
-    },
     "vidscribe": {
       "title": "vidscribe",
       "description": "The project primarily assists beginners in the content creation field by requiring only the desired video\ntitle from the user and then automatically producing a complete video. This includes [Script Writing -\nResource Gathering - Voiceover - Video Editing - Final Output] The end result is a fully edited video\ncombining all visual elements with the voiceover track, requiring minimal input from the user while\nhandling the entire production workflow automatically.",
@@ -975,6 +941,40 @@
     "Eng. Abdelaziz Ahmed"
   ]
   },
+    "fire-fighting-robot": {
+      "title": "Fire Fighting Robot",
+      "description": "The Fire Fighting Robot is an intelligent robotic system designed to detect and extinguish fires in indoor environments safely and efficiently. The robot relies on sensors such as flame and temperature sensors (MLX90614) to identify the presence of fire and operates in two modes:\n\t•\tAutomatic mode: The robot detects the fire on its own and activates the extinguishing mechanism (water pump or fan).\n\t•\tManual mode: The robot can be controlled remotely via Bluetooth using a mobile phone.\n\nThe system is built using an Arduino Mega microcontroller, DC motors, flame and temperature sensors, a servo motor, a water pump, and a relay module, all powered by rechargeable batteries. The code is written in C/C++ using the Arduino IDE.\n\nThe goal of the project is to provide a practical and intelligent solution for early fire response, reducing risks to human life and property in hazardous environments",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_3.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1-IlUflIlytHx-5grHANvLTQH6WfH1O7C/preview?usp=drivesdk",
+      "tags": [
+        "C", "C++", "Arduino IDE", "UART", "I2C", "Bluetooth", "Sensors"
+      ],
+      "teamLeader": {
+        "name": "Abdelrahman Yasser Ahmed Youssef",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "1. Abdelrahman Yasser Ahmed Youssef",
+        "2.\tAssem Mohamed Abdelsabour Mohamed",
+        "3.\tRawan Mohamed Hassan Ali",
+        "4.\tMenna Allah Ahmed Mohamed",
+        "5.\tHady Adel Mohamed Abdelhady",
+        "6.\tAya Elsayed Mohamed Abdelghafar",
+        "7.\tYasmin Sobhy Mohamed Elsayed",
+        "8.\tAbdelrahman Hossam Eldin Aly Dahlen",
+        "9.\tHamza Sayed Amin Adly ElBangi",
+        "10.\tAboubakr Mohamed Taher Hassan"
+      ],
+      "supervisors": [
+        "1- Dr. Kirolos Khalaf Salim",
+        "2- Eng. Mohamed Ammar"
+      ]
+    },
   "smart-ai-hospital-system": {
   "title": "Smart AI Hospital System",
   "description": "This project delivers an intelligent, fully integrated hospital‑management platform that unifies administrative and clinical operations on a single digital backbone. It supports multilingual workflows (Arabic, English, and more) and offers comprehensive handling of personal details, medical records, specialist notes, laboratory results, radiology images, and longitudinal health data. Patients log in to secure personal dashboards to review their complete records, while authorised staff manage doctors, nurses, emergency physicians, ICU teams, lab and radiology technicians, and administrative users through role‑based access controls.\n\nA flagship capability is the Smart Emergency Request: one press of the SOS button on a patient’s dashboard transmits a real‑time alert—with live geolocation—to the hospital’s emergency desk. Staff immediately see the patient’s full profile and can dispatch an appropriate medical team to the reported location.\n\nKey features include:\n• Multilingual user interface\n• End‑to‑end patient, doctor, and staff management\n• Live‑location emergency alerts\n• Digital patient profiles (reports, labs, imaging)\n• Role‑based permissions (admin, doctor, nurse, etc.)\n• Modern 3‑D‑style user experience\n• Scalable architecture suitable for hospitals, clinics, and health centres",
