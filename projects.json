@@ -922,7 +922,13 @@
   "title": "Smart AI Hospital System",
   "description": "This project delivers an intelligent, fully integrated hospital‑management platform that unifies administrative and clinical operations on a single digital backbone. It supports multilingual workflows (Arabic, English, and more) and offers comprehensive handling of personal details, medical records, specialist notes, laboratory results, radiology images, and longitudinal health data. Patients log in to secure personal dashboards to review their complete records, while authorised staff manage doctors, nurses, emergency physicians, ICU teams, lab and radiology technicians, and administrative users through role‑based access controls.\n\nA flagship capability is the Smart Emergency Request: one press of the SOS button on a patient’s dashboard transmits a real‑time alert—with live geolocation—to the hospital’s emergency desk. Staff immediately see the patient’s full profile and can dispatch an appropriate medical team to the reported location.\n\nKey features include:\n• Multilingual user interface\n• End‑to‑end patient, doctor, and staff management\n• Live‑location emergency alerts\n• Digital patient profiles (reports, labs, imaging)\n• Role‑based permissions (admin, doctor, nurse, etc.)\n• Modern 3‑D‑style user experience\n• Scalable architecture suitable for hospitals, clinics, and health centres",
   "department": "health‑informatics",
-  "images": [],
+  "images": [
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/SmartAiHosptil/image_1.png",
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/SmartAiHosptil/image_2.png",
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/SmartAiHosptil/image_3.png",
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/SmartAiHosptil/image_4.png",
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/SmartAiHosptil/image_5.png"
+  ],
   "video": "https://drive.google.com/file/d/1hSoudiL0bAVeUyXSDHLH8LQiNxBZZHtp/preview?usp=sharing",
   "tags": [
     "Python", "Flask", "Django", "HTML", "CSS", "JavaScript",
