@@ -923,11 +923,9 @@
   "description": "This project introduces a Smart Glove designed to translate sign language into spoken and written human language using advanced sensor technology and AI. The glove integrates Flex sensors and an MPU6050 sensor to capture numerical representations of hand gestures. These readings are processed by a trained AI model capable of predicting corresponding letters or words. A Flask-based backend handles the translation and delivers output to a responsive web interface supporting both Arabic and English languages, including text-to-speech functionality. Communication between the glove and the web interface is achieved over Wi-Fi via an ESP32 microcontroller, assuming both are connected to the same local network. A CSV dataset within the project enables accurate mapping of sensor input to meaningful text.",
   "department": "ds",
   "images": [
-    "IMAGE_URL_1",
-    "IMAGE_URL_2",
-    "IMAGE_URL_3",
-    "IMAGE_URL_4",
-    "IMAGE_URL_5"
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smart-glove/1.png",
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smart-glove/2.png",
+    "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smart-glove/3.jpeg"
   ],
   "video": "https://drive.google.com/drive/my-drive",
   "tags": [
