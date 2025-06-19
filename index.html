@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HITU Projects</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="dark-theme">
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>HITU Projects</span>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#home" class="nav-link">Home</a></li>
+                    <li><a href="#projects" class="nav-link">Projects</a></li>
+                </ul>
+                <div class="nav-controls">
+                    <div class="hamburger">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            <div class="hero-container">
+                <div class="hero-content">
+                    <h1 class="hero-title">University Projects </h1>
+                    <p class="hero-subtitle">Exploring the intersection of technology and innovation through academic research and development</p>
+                    <div class="hero-stats">
+                        <div class="stat">
+                            <span class="stat-number">15+</span>
+                            <span class="stat-label">Projects</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">3</span>
+                            <span class="stat-label">Departments</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-number">2+</span>
+                            <span class="stat-label">Years</span>
+                        </div>
+                    </div>
+                    <a href="#projects" class="cta-button">Explore Projects</a>
+                </div>
+                <div class="hero-visual">
+                    <div class="floating-cards">
+                        <div class="card cybersecurity">
+                            <i class="fas fa-shield-alt"></i>
+                            <span>Cybersecurity</span>
+                        </div>
+                        <div class="card ai">
+                            <i class="fas fa-brain"></i>
+                            <span>AI</span>
+                        </div>
+                        <div class="card data-science">
+                            <i class="fas fa-chart-line"></i>
+                            <span>Data Science</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Our Projects</h2>
+                    <p>Explore our academic work across different technology domains</p>
+                </div>
+
+                <!-- Department Categories -->
+                <div class="department-tabs">
+                    <button class="tab-button active" data-department="all">
+                        <i class="fas fa-th"></i>
+                        All Projects
+                    </button>
+                    <button class="tab-button" data-department="cybersecurity">
+                        <i class="fas fa-shield-alt"></i>
+                        Cybersecurity
+                    </button>
+                    <button class="tab-button" data-department="ai">
+                        <i class="fas fa-brain"></i>
+                        Artificial Intelligence
+                    </button>
+                    <button class="tab-button" data-department="data-science">
+                        <i class="fas fa-chart-line"></i>
+                        Data Science
+                    </button>
+                </div>
+
+                <!-- Projects Grid -->
+                <div class="projects-grid" id="projectsGrid">
+                    <!-- Projects will be dynamically loaded here -->
+                </div>
+                <div id="loadMoreContainer" style="text-align:center; margin-top:2rem;"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Project Modal -->
+    <div class="modal-overlay" id="projectModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h2 id="modalTitle">Project Title</h2>
+                <button class="modal-close" id="modalClose">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-content">
+                <div class="modal-media">
+                    <div class="media-tabs">
+                        <button class="media-tab active" data-tab="images">
+                            <i class="fas fa-images"></i> Images
+                        </button>
+                        <button class="media-tab" data-tab="video">
+                            <i class="fas fa-video"></i> Video
+                        </button>
+                    </div>
+                    <div class="media-content">
+                        <div class="media-panel active" id="images-panel">
+                            <div class="image-gallery" id="imageGallery">
+                                <!-- Images will be loaded here -->
+                            </div>
+                        </div>
+                        <div class="media-panel" id="video-panel">
+                            <div class="video-container" id="videoContainer">
+                                <!-- Video will be loaded here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-info">
+                    <div class="project-description">
+                        <h3>Description</h3>
+                        <p id="modalDescription">Project description will be loaded here...</p>
+                    </div>
+                    <div class="project-team">
+                        <h3>Team</h3>
+                        <div class="team-leader">
+                            <h4>Team Leader</h4>
+                            <div class="member-card">
+                                <div class="member-avatar" id="teamLeaderAvatar">
+                                    <i class="fas fa-user"></i>
+                                </div>
+                                <div class="member-info">
+                                    <h5 id="teamLeaderName">Name</h5>
+                                    <p id="teamLeaderRole">Role</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-members">
+                            <h4>Team Members</h4>
+                            <div class="members-grid" id="teamMembers">
+                                <!-- Team members will be loaded here -->
+                            </div>
+                        </div>
+                        <div class="supervisors">
+                            <h4>Supervisors</h4>
+                            <div class="supervisors-list" id="supervisorsList">
+                                <!-- Supervisors will be loaded here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fullscreen Image Modal -->
+    <div class="fullscreen-modal-overlay" id="fullscreenImageModal">
+        <div class="fullscreen-modal">
+            <div class="fullscreen-modal-header">
+                <button class="fullscreen-modal-close" id="fullscreenModalClose">
+                    <i class="fas fa-times"></i>
+                </button>
+                <button class="fullscreen-modal-nav" id="fullscreenPrev">
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+                <button class="fullscreen-modal-nav" id="fullscreenNext">
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+            <div class="fullscreen-modal-content">
+                <img id="fullscreenImage" src="" alt="Fullscreen Image">
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

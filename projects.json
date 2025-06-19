@@ -1,0 +1,948 @@
+{
+  "projects": {
+    "kemet framework": {
+      "title": "Kemet Framework",
+      "description": "KEMET is a comprehensive red teaming framework designed to automate offensive cybersecurity operations while maintaining stealth and precision. The platform features a clean, user-friendly interface that enables professionals to conduct complex simulations with ease.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/kemet/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/kemet/image_2.png",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/kemet/image_3.png",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/kemet/image_4.png",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/kemet/image_5.png",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/kemet/image_6.png",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/kemet/image_7.png"
+
+      ],
+      "video": "https://drive.google.com/file/d/13fUw5f3wxuWSWwJiryDz6hr0x0oTxh43/preview",
+      "tags": ["Python", "C", "Go-lang","powershell","bash","html","css","js","red teaming","offensive security"],
+      "teamLeader": {
+        "name": "Andrew Mamdouh",
+        "role": "Lead Security Engineer",
+        "image": "https://lh3.googleusercontent.com/a/ACg8ocJGZALu_nCKSqK9rpKNgtuDjHqK8L4DEw2Z68BFNaRJ1dXYsgQ=s288-c-no?w=150&h=150&fit=crop&crop=face"
+      },
+      "teamMembers": [
+        "abdelrahman sayed",
+        "ziad mohamed",
+        "demiana akram",
+        "rawan mohamed",
+        "rawan alaa",
+        "mai fouad",
+        "youmna khaled",
+        "nivan kamal",
+        "marsel karam"
+      ],
+      "supervisors": [
+        "Dr. Anwer Sayed",
+        "Eng. Nada Abdo"
+      ]
+    },
+    "anubis": {
+      "title": "ANUBIS",
+      "description": "This project aims to develop a multi-platform application—available on desktop, web, and mobile—that highlights the cultural and historical heritage of ancient Egypt. By combining authentic historical content with modern artificial intelligence technologies, the application seeks to bridge the gap between the past and the present in an engaging and accessible way.\n\nAt the core of the app lies a deep respect for Egypt's ancient civilizations. It provides users with concise, informative overviews of Egypt's ancient kingdoms, along with guides to major archaeological sites and regional tourist attractions. These resources are designed not only to educate but also to promote cultural tourism and appreciation of Egypt's rich legacy.\n\nOne of the app's standout features is \"Chat Anubis\", a multilingual chatbot that supports 59 languages and 117 dialects. This ensures that users from all over the world can interact with the app in their native language, making the experience inclusive and user-friendly.\n\nIn addition, the app employs Computer Vision technology to recognize pharaoh statues and other artifacts. Upon recognition, it provides users with detailed historical context, enhancing the interactive experience and making learning about history feel intuitive and personal.\n\nUltimately, this application represents a fusion of heritage and innovation. It brings the story of ancient Egypt to life through a seamless blend of culture, technology, and design—making the wonders of the past relevant and accessible to today's global audience.",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/ANUBIS/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/ANUBIS/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/ANUBIS/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/ANUBIS/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/ANUBIS/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/drive/folders/1Y2mtbygJCJooyDMuQqtgPEmlY6hUc9No?usp=drive_link",
+      "tags": [
+        "SQLite", "Firebase", "Python", "Flutter", "HTML", "CSS", "JavaScript", "C#", ".NET MAUI"
+      ],
+      "teamLeader": {
+        "name": "Youssef Hesham William",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Nadim Mohamed Badr (leader AI)",
+        "Mirvana Makram Wadea",
+        "Hassan Saeed Hassan",
+        "Rawan Radi Hassan",
+        "Shahd Raafat Mohamed",
+        "Jana Hany Mohamed",
+        "Mary Maher Adel",
+        "Julian Ashraf Kamil",
+        "Fathy Mohsen Fathy",
+        "Ahmed Salah Hassan",
+        "Mazen Ayman Ragab",
+        "Youssef Omar Abdelhamid"
+        ],
+        "supervisors": [
+          "Dr. Anwar Sayed",
+          "Dr. Simon Ezzat",
+          "Eng. Naglaa Saeed"
+        ]
+      },
+    "media-track": {
+      "title": "Media track",
+      "description": "ويب ابليكيشن لحجز مستشفيات و معامل و صيدليات بتوفر علي المستخدم وقت كبير و بيقدر انو يحتفظ بالسجل المرضي بتاعه علي الاكونت و بيكون عندو التحاليل و الاشعات و كل حاجه مرفوعه بحيث لو نسيها تبقا موجوده",
+      "department": "data-science",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Media_track/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1kOy1Mhq8a3_B5bMN5arQYFoH61EjqdYW/preview?usp=drivesdk",
+      "tags": [
+        "HTML", "CSS", "JavaScript", "Bootstrap", "SQL", "PHP"
+      ],
+      "teamLeader": {
+        "name": "محمد هاني مصطفي عبدالرحمن",
+        "role": "Project Lead (data leader)"
+      },
+      "teamMembers": [
+        "11"
+      ],
+      "supervisors": [
+        "دكتور محمد ياسين / المهندسه أماني"
+      ]
+    },
+    "smart-city": {
+      "title": "Smart City",
+      "description": "This project presents a small-scale prototype of a Smart City that utilizes modern technologies such as the Internet of Things (IoT), Artificial Intelligence (AI), and various sensors. The model integrates multiple smart systems including traffic control, energy management, security, and smart lighting to create a more efficient and comfortable living environment.\n\nProject Components:\n\nESP32 Microcontroller\n\nUltrasonic sensors for managing city and garage gates\n\nIR sensors to detect vehicle presence\n\nServo motors for automatic gate control\n\nLCD screens to display welcome and goodbye messages\n\nSmart lighting that activates based on motion or ambient light",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smartcity/image_1.png",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smartcity/image_2.png",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/smartcity/image_3.png"
+
+      ],
+      "video": "https://drive.google.com/drive/folders/1jIkloCXDj05yt2A9DeBp8Ta34CktpxTW",
+      "tags": [
+        "AI", "IoT", "Flutter", "Python", "HTML", "CSS", "JavaScript", "Firebase"
+      ],
+      "teamLeader": {
+        "name": "Ali Omar Qarni Sayed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Seif El-Din Khaled Abdullah.... Mohamed Saeed Abdel Aziz.... Youssef Samir Bakhit.... Mariam Mohamed Jalal.... Menna Allah Safwat Soliman"
+      ],
+      "supervisors": [
+        "Dr.Kyrillos ..... En.Naglaa Saeed"
+      ]
+    },
+    "wifi-attack": {
+      "title": "Wifi attack",
+      "description": "A tool that hacks Wi-Fi and has a GUI. It hacks Wi-Fi in all ways and easily using buttons. It also performs all attacks that can be done when you are on the same network or post-hacking attacks until you reach the point of hacking the devices on the network.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Wifi_attack/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/19ro8ytxEbVf8DmXRaFAr1vi9kpobruEt/preview?usp=drive_link",
+      "tags": [
+        "Python"
+      ],
+      "teamLeader": {
+        "name": "Omar ayman",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Omar Ayman Habashi",
+        "Hassan Ahmad Hassan",
+        "Hassan Mohamed Hassan",
+        "Sara Soliman Labeeb",
+        "Habiba Abo Elyazid Ishaq",
+        "Basmala Tarek mahmoud",
+        "Kareman Mohamed Abd El Baqi",
+        "Youstina Mamdouh Gerges",
+        "Shrouk Mohamed Elsayed",
+        "Mariam Fathy Sayed"
+      ],
+      "supervisors": [
+        "Dr.Ahmed Fawzey",
+        "Eng.Nada Abdo"
+      ]
+    },
+    "network-detection-system": {
+      "title": "Network Detection System",
+      "description": "The project aims to create a simulation system through which cyber penetrations can be made, which helps in learning and benefiting by using technologies.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Network_Detection_System/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Network_Detection_System/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Network_Detection_System/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Network_Detection_System/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Network_Detection_System/image_5.jpg"
+      ],
+      "video": "Yes",
+      "tags": [
+        "Python", "Suricata", "Kali", "Telegram", "Ubuntu"
+      ],
+      "teamLeader": {
+        "name": "Abdelbaset Mohamed Abdelbaset",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Abdelbaset Mohamed Abdelbaset",
+        "Tarek Mohamed Hassan",
+        "Abdelrhman Sobhi Fathy",
+        "Mohamed Medhat Mohamed",
+        "Saif Mohamed Ahmed",
+        "Ammar Yasser",
+        "Khaled abo elmatti",
+        "Moaz Farhan Hemdan",
+        "Habiba Osama",
+        "Jana Ahmed"
+      ],
+      "supervisors": [
+        "Eng:Nada Abdo",
+        "Dr:Kyrllos Beshara"
+      ]
+    },
+    "deepsec": {
+      "title": "DeepSec",
+      "description": "DeepSec is a smart, real-time Intrusion Detection and Prevention System (IDPS) designed to monitor, detect, classify, and respond to cybersecurity threats using Artificial Intelligence. Unlike traditional signature-based systems, DeepSec uses machine learning (XGBoost) to detect anomalous behaviors in network traffic — enabling it to identify both known and unknown (zero-day) attacks.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/DeepSec/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1v9cZAJzdYFlsZa4RO3DeAY6mUOrOGi8-/preview?usp=drivesdk",
+      "tags": [
+        "Suricata", "Python", "Flask", "Bootstrap", "iptables"
+      ],
+      "teamLeader": {
+        "name": "Asem Abdelfattah Shahat",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Zaid Roushdy Hegazy",
+        "Hussien Ahmed Mohamed",
+        "Mohamed Hassan Mohamed",
+        "Seif Alden Ahmed Yousef",
+        "Abdullah Ayman Ramadan",
+        "Ezz Alden Hesham Abdullah",
+        "Mohamed Sabry Mohamed",
+        "Yousef Amir Mohamed"
+      ],
+      "supervisors": [
+        "Prof. Sayed A. Elfar",
+        "Eng.Nada Abdo"
+      ]
+    },
+    "facial-recognition-technology": {
+      "title": "facial recognition technology",
+      "description": "This project presents the design and implementation of a Real-time Face Recognition and Access Control System, aimed at revolutionizing conventional security paradigms. The system leverages advanced artificial intelligence and Internet of Things (IoT) technologies to provide an autonomous, efficient, and secure access solution. The core functionality involves real-time video streaming from an ESP32-CAM to a host server running a Flask web application. This server performs sophisticated face detection using YOLOv8-nano and identity recognition through DeepFace (utilizing Facenet512/ArcFace embeddings). Upon successful authentication of an authorized individual, the system wirelessly transmits control signals to an ESP8266 microcontroller, which actuates a physical access mechanism.\nA key strength of this system is its robustness and resilience. It incorporates advanced error handling, including exponential backoff and automated reconnection strategies for camera streams, ensuring continuous operation even under network instability. The web interface offers intuitive user management, real-time visual feedback with dynamic overlays, and comprehensive access logging, enhancing administrative oversight. Empirical results demonstrate high frame rates (e.g., 10 FPS for local webcam, 40  FPS for ESP32-CAM) and a low false acceptance rate, validating its effectiveness. This project provides a cost-effective, open-source, and highly adaptable solution for smart access control, showcasing the seamless integration of AI, web technologies, and IoT.",
+      "department": "data-science",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/facial_recognition_technology/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1Rx-u0Ymmu7YIiOQvVWJlgY-ElPymE38v/preview?usp=sharing",
+      "tags": [
+        "Software", "Hardware", "AI", "Face Recognition", "Flask", "YOLOv8", "DeepFace", "ESP32-CAM", "ESP8266", "Python"
+      ],
+      "teamLeader": {
+        "name": "mazen abd elraheem",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Youstina emad mikhayiyl rezk",
+        "Maryam Mahmoud Yassin Abdel-Warith",
+        "mazen abd elraheem Mohamed Osman",
+        "Ahmed Sherif Abdel Sanea Rizk",
+        "Menna Mohammed Ali Abdul Latif",
+        "Aya Mostafa Alsaid Wahba",
+        "Mariam Abdelftah Abubaker Mohammed",
+        "Manar Salama Ahmed Hassan Soliman",
+        "Mohamed mostafa osman ahmed"
+      ],
+      "supervisors": [
+        "ENG/Habiba Hamid , DR/Anwer sayed"
+      ]
+    },
+    "silent-scrapers": {
+      "title": "Silent Scrapers",
+      "description": "The project is a web-based platform that combines a main website with a set of experimental labs containing real security vulnerabilities. The platform aims to train students and anyone interested in cybersecurity to discover and exploit vulnerabilities in a practical and safe environment, helping them gain hands-on experience and essential skills required in the job market.\n\nIn addition to the vulnerable labs, the platform also provides a suite of built-in web and network security tools that users can access directly from the browser. These tools eliminate the need for local installations, offering a seamless and lightweight experience. Whether it's scanning domains, analyzing open ports, testing firewalls, or simulating web attacks, users can perform comprehensive security assessments within a single platform — making learning both efficient and accessible from anywhere.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Silent_Scrapers/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Silent_Scrapers/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Silent_Scrapers/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Silent_Scrapers/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Silent_Scrapers/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/11nGalPjkPz47OpD0JLfB3Imuz3Nj6t2A/preview?usp=drive_link",
+      "tags": [
+        "HTML", "CSS", "JavaScript", "PHP", "Python", "Go"
+      ],
+      "teamLeader": {
+        "name": "kariem Mohamed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "1-ebrahim hesham awd",
+        "2-Karim Mohamed Hussain El-Sayed",
+        "3-Kerolos adeeb Dawood Elias",
+        "4-Mohamed Elsayed Mohamed Abd El All",
+        "5-Mohamed Hesham Mohamed Ahmed",
+        "6-Mohamed Ibrahim mohamed Metwaa",
+        "7-mostafa ahmed mostafa habashy",
+        "8-Mostafa Mohy Mohamed Youssef",
+        "9-Youssef ayman mohamed abdelhalem",
+        "10-Mohamed Ahmed Sayed Ahmed",
+        "11-Karim Tarek elsaid Mohamed"
+      ],
+      "supervisors": [
+        "Dr. Ahmed Fawzy",
+        "Eng. Mina"
+      ]
+    },
+    "face-recognition-attendence-system": {
+      "title": "Face recognition attendence system",
+      "description": "This project presents a smart attendance system that uses artificial \nintelligence and image processing to automatically record student \nattendance without direct human involvement\nIt uses a camera to capture faces and compare them with a pre-\nregistered database, reducing errors and preventing attendance fraud\nThe system is integrated with a MySQL database to store data and \nincludes a user-friendly graphical interface with clickable buttons for \neach topic\nIt also supports barcode technology as an alternative when using a \ncamera is difficult\nA unique QR code is generated and refreshed every three seconds to \nallow instant access to external forms",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Face_recognition_attendence_system/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Face_recognition_attendence_system/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Face_recognition_attendence_system/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Face_recognition_attendence_system/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Face_recognition_attendence_system/image_5.jpg"
+      ],
+      "video": "Yes",
+      "tags": [
+        "Python", "OpenCV", "LBPH", "Tkinter", "MySQL", "mysql.connector", "Pillow", "NumPy", "CSV", "Datetime", "qrcode", "pyzbar", "Google Forms", "Google Sheets"
+      ],
+      "teamLeader": {
+        "name": "Project Team",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "1- Mostafa Sherif Al-Sayed Shalaby Suleiman",
+        "2- Mohamed Hussein Mahmoud Hassan",
+        "3- Youssef Ali Abdel Nour Abdel Gawad",
+        "4- Abdullah Abdel Basset Shehata Abdel Azim",
+        "5- Abdullah Mohamed Abdullah Al-Sayed",
+        "6- Basant Atta Badir Zekry",
+        "7- Gehad Reda Ibrahim Abdel Majeed",
+        "8- Habeeba Wael Kamal Khalifa",
+        "9- Youssef Fakih Mohamed Fathallah",
+        "10- Ephraim Osama Fathy Morid"
+      ],
+      "supervisors": [
+        "DR. Mohamed Sobh",
+        "Eng. Shimaa Mohamed"
+      ]
+    },
+    "fire-fighting-robot": {
+      "title": "Fire Fighting Robot",
+      "description": "The Fire Fighting Robot is an intelligent robotic system designed to detect and extinguish fires in indoor environments safely and efficiently. The robot relies on sensors such as flame and temperature sensors (MLX90614) to identify the presence of fire and operates in two modes:\n\t•\tAutomatic mode: The robot detects the fire on its own and activates the extinguishing mechanism (water pump or fan).\n\t•\tManual mode: The robot can be controlled remotely via Bluetooth using a mobile phone.\n\nThe system is built using an Arduino Mega microcontroller, DC motors, flame and temperature sensors, a servo motor, a water pump, and a relay module, all powered by rechargeable batteries. The code is written in C/C++ using the Arduino IDE.\n\nThe goal of the project is to provide a practical and intelligent solution for early fire response, reducing risks to human life and property in hazardous environments",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fire_Fighting_Robot/image_3.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1-IlUflIlytHx-5grHANvLTQH6WfH1O7C/preview?usp=drivesdk",
+      "tags": [
+        "C", "C++", "Arduino IDE", "UART", "I2C", "Bluetooth", "Sensors"
+      ],
+      "teamLeader": {
+        "name": "Abdelrahman Yasser Ahmed Youssef",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "1. Abdelrahman Yasser Ahmed Youssef",
+        "2.\tAssem Mohamed Abdelsabour Mohamed",
+        "3.\tRawan Mohamed Hassan Ali",
+        "4.\tMenna Allah Ahmed Mohamed",
+        "5.\tHady Adel Mohamed Abdelhady",
+        "6.\tAya Elsayed Mohamed Abdelghafar",
+        "7.\tYasmin Sobhy Mohamed Elsayed",
+        "8.\tAbdelrahman Hossam Eldin Aly Dahlen",
+        "9.\tHamza Sayed Amin Adly ElBangi",
+        "10.\tAboubakr Mohamed Taher Hassan"
+      ],
+      "supervisors": [
+        "1- Dr. Kirolos Khalaf Salim",
+        "2- Eng. Mohamed Ammar"
+      ]
+    },
+    "vidscribe": {
+      "title": "vidscribe",
+      "description": "The project primarily assists beginners in the content creation field by requiring only the desired video\ntitle from the user and then automatically producing a complete video. This includes [Script Writing -\nResource Gathering - Voiceover - Video Editing - Final Output] The end result is a fully edited video\ncombining all visual elements with the voiceover track, requiring minimal input from the user while\nhandling the entire production workflow automatically.",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/vidscribe/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/drive/folders/11VMZy6UwOaGHdxKJAUqHbLCmxe4E0Ez_?usp=sharing",
+      "tags": [
+        "Python", "Flask", "HTML", "CSS", "JavaScript"
+      ],
+      "teamLeader": {
+        "name": "omar ahmed farag",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "mahmoud labeeb mahmoud",
+        "mariem sayed ahmed",
+        "adel mahfouz goda",
+        "amar hamed hamed",
+        "rawan khaled hussien",
+        "mostafa amr mostafa",
+        "saeed amr saeed",
+        "omar ahmed farag",
+        "mahmoud hussien ali",
+        "Abdulrahman Ahmed Mohammed"
+      ],
+      "supervisors": [
+        "دكتور سيد الفار"
+      ]
+    },
+    "facial-recognition-technology-system": {
+      "title": "facial recognition technology system",
+      "description": "This project presents the design and implementation of a Real-time Face Recognition and Access Control System, aimed at revolutionizing conventional security paradigms. The system leverages advanced artificial intelligence and Internet of Things (IoT) technologies to provide an autonomous, efficient, and secure access solution. The core functionality involves real-time video streaming from an ESP32-CAM to a host server running a Flask web application. This server performs sophisticated face detection using YOLOv8-nano and identity recognition through DeepFace (utilizing Facenet512/ArcFace embeddings). Upon successful authentication of an authorized individual, the system wirelessly transmits control signals to an ESP8266 microcontroller, which actuates a physical access mechanism.\nA key strength of this system is its robustness and resilience. It incorporates advanced error handling, including exponential backoff and automated reconnection strategies for camera streams, ensuring continuous operation even under network instability. The web interface offers intuitive user management, real-time visual feedback with dynamic overlays, and comprehensive access logging, enhancing administrative oversight. Empirical results demonstrate high frame rates (e.g., 10 FPS for local webcam, 40  FPS for ESP32-CAM) and a low false acceptance rate, validating its effectiveness. This project provides a cost-effective, open-source, and highly adaptable solution for smart access control, showcasing the seamless integration of AI, web technologies, and IoT.",
+      "department": "data-science",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/facial_recognition_technology_system/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/facial_recognition_technology_system/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/facial_recognition_technology_system/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/facial_recognition_technology_system/image_4.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1Rx-u0Ymmu7YIiOQvVWJlgY-ElPymE38v/preview?usp=sharing",
+      "tags": [
+        "Python", "Flask", "HTML", "JavaScript", "CSS", "Django"
+      ],
+      "teamLeader": {
+        "name": "mazen abd elraheem",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Youstina emad mikhayiyl rezk",
+        "Maryam Mahmoud Yassin Abdel-Warith",
+        "mazen abd elraheem Mohamed Osman",
+        "Ahmed Sherif Abdel Sanea Rizk",
+        "Menna Mohammed Ali Abdul Latif",
+        "Aya Mostafa Alsaid Wahba",
+        "Mariam Abdelftah Abubaker Mohammed",
+        "Manar Salama Ahmed Hassan Soliman",
+        "Mohamed mostafa osman ahmed"
+      ],
+      "supervisors": [
+        "ENG/HABIBA HAMID , DR/ANWER SAYED"
+      ]
+    },
+    "my-university": {
+      "title": "My University",
+      "description": "The project is a cross-platform digital solution for universities, streamlining academic operations such as scheduling, attendance, grades, and notifications. It supports online lectures, virtual meetings, exam hosting, and automated schedule generation using smart algorithms, aiming to enhance efficiency, accuracy, and the overall user experience.",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/My_University/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/My_University/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/My_University/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/My_University/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/My_University/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1IuMjzQqAFsGnmIFvbZSp8CXIbIzB-GEt/preview?usp=drivesdk",
+      "tags": [
+        "Next.js", "HTML", "CSS", "JavaScript", "Flutter", "Dart", "Django"
+      ],
+      "teamLeader": {
+        "name": "Ahmed hussein Farag",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Ali Esam Ali, Mahmoud Ahmed Said, Mohamed Gamel Emam, Ahmed Hassan Mohmed, Mahmoud Ahmed Khalaf, Abdelrhman Ahmed Hassan, Mariam wael edris, Hager Ramadan Abo shama, Somaia Osama Sobhy, Shimaa Adel Abo elanen, Shahd Ashraf Abdelwahed, Sohaila Salama Abdelrhman"
+      ],
+      "supervisors": [
+        "Dr. Marwa El Sayed  , Eng. Naglaa Saeed"
+      ]
+    },
+    "unisign": {
+      "title": "UniSign",
+      "description": "Smart glove for translating Arabic Sign Language Using characters",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/UniSign/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/UniSign/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/UniSign/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/UniSign/image_4.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1-TrVB4KSfN5XjYL5skdmcny1VHPF5X0k/preview?usp=drivesdk",
+      "tags": [
+        "C++", "Python", "Flask", "HTML", "CSS", "JavaScript"
+      ],
+      "teamLeader": {
+        "name": "Yousef Sayed SalahElden",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Abdullah Mohamed Abdullah Ahmed",
+        "Youssef Nasser Ahmed",
+        "Mohamed Ibrahim AbdelAal",
+        "Mohamed Ahmed Sabry",
+        "Kareem Mohamed Salah",
+        "Salma Ashraf Mahmoud Abbas",
+        "Maryam Emad El-Sayed Abdelhamid",
+        "Mohamed Mohamed Lotfy",
+        "Marina Mikhail Henry",
+        "Mennah tullah Muhammed Lotfy"
+      ],
+      "supervisors": [
+        "Dr.Hend Zeyada"
+      ]
+    },
+    "smart-car-parking": {
+      "title": "Smart car parking",
+      "description": "The project is an automated parking management system that monitors \nparking spots in real-time using IR sensors and displays availability (P1 Full/P2 \nEmpty) on an LCD. It controls access via RFID validation—opening a servo gate \nfor valid cards or sounding a buzzer for invalid ones. An ultrasonic sensor \ndetects exiting vehicles (5cm) to trigger gate opening and closes it after \ndeparture (30cm). Designed to optimize space, security, and traffic flow, the \nsystem eliminates manual checks while improving efficiency.",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_car_parking/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1dy4uYRYrjprOEF5K_qmOqFAvb5YF_gYl/preview?usp=sharing",
+      "tags": [
+        "C", "C++", "Arduino IDE"
+      ],
+      "teamLeader": {
+        "name": "Abdelrahman said eissa",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "ِAbdelrahman Said Eissa",
+        "Mina Emad Foly",
+        "Shahd Osama Fathy",
+        "Fatma Mahmoud Ahmed",
+        "Yasmin Megahed mortada",
+        "Maryam Hassaan Shahat",
+        "Maryam Nasr Mostafa",
+        "Mai Ahmed Mohamed",
+        "Rana Osama Abdel Fattah",
+        "Maryam Said Mohamed"
+      ],
+      "supervisors": [
+        "Dr. Abdelsalam Helmy",
+        "Eng. Mohamed Hamdy"
+      ]
+    },
+    "onyx-protection-system-ops": {
+      "title": "Onyx Protection System OPS",
+      "description": "The ONYX Local Network Security System is designed to \naddress growing cybersecurity threats in local networks, \nparticularly for small and medium businesses (SMBs).\nTraditional security methods, such as password-only \nauthentication, are no longer sufficient against modern \nattacks like data breaches and insider threats.\nONYX enhances security by combining multi-factor \nauthentication using passwords and device MAC addresses \nwith automatic file encryption and honeypot deception (e.g., \nfake login pages).\nBuilt with Flask and Socket.IO, the system ensures secure user \nauthentication, encrypted real-time messaging, and role-\nbased access control. Key features include:\n• Two-step verification (password + approved device).\n• AES-256 encryption for files (e.g., PDFs, Word docs).\n• Attack detection via trap pages (spy.html) and activity \nlogging.\nTesting confirmed ONYX's effectiveness in blocking \nunauthorized access and protecting sensitive data. Future \nimprovements could include AI-based threat detection and \nbiometric authentication. This project provides a cost-\neffective, scalable solution for SMBs to safeguard their \nnetworks.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Onyx_Protection_System_OPS/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Onyx_Protection_System_OPS/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Onyx_Protection_System_OPS/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Onyx_Protection_System_OPS/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Onyx_Protection_System_OPS/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/drive/folders/106t5mRWdfJDMm2rbCxs8ApWdM5EBEo3V",
+      "tags": [
+        "Python", "Batch Scripts", "AES Encryption", "Web.py"
+      ],
+      "teamLeader": {
+        "name": "Abd Alrhman Jamal Abd Alnaser Abd Allah",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Abd Alrhman Jamal Abd Alnaser Abd Allah",
+        "Zyad Hussean ABD El-Fatah Hussean",
+        "Mohamed Ibrahim Awwad Ibrahim",
+        "Belal Ashrf Mohamed Abd El-hady",
+        "Ahmed Eid Elsayed",
+        "Nour Abdelhamid Ali",
+        "Nada Khairat Hassan",
+        "habiba osama abd elsadek",
+        "Hanan Atta Ahmed",
+        "zeinab ahmed Abdul Halim"
+      ],
+      "supervisors": [
+        "Dr/Mohsen Elbendary",
+        "Eng/Walaa Gomaa"
+      ]
+    },
+    "fraud-banking-transaction-detection": {
+      "title": "Fraud banking transaction detection",
+      "description": "Fraud detection",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Fraud_banking_transaction_detection/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/17WWXsJBMI0EaEMIkHZ8TGXYqaIXWLBTJ/preview?usp=drivesdk",
+      "tags": [
+        "Python"
+      ],
+      "teamLeader": {
+        "name": "Mohamed haithem",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "AbdAllah moustafa, muhaned Karem, AbdAllah Mohamed, Mohamed sherif, omar mokhtar, omar abdelnather, adham hesham mahmoud zinhom"
+      ],
+      "supervisors": [
+        "Doc Mohamed sobh , eng shaimaa"
+      ]
+    },
+    "cybernox": {
+      "title": "CyberNox",
+      "description": "Conducting in-depth web application analysis using advanced cybersecurity tools, integrated with artificial intelligence to interpret the results, provide remediation suggestions, and simplify technical findings for non-technical stakeholders.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/CyberNox/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/CyberNox/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/CyberNox/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/CyberNox/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/CyberNox/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/drive/folders/1N7D_JiuZC7Sj3rWfxFF0bnKsZpQynZ7-",
+      "tags": [
+        "HTML", "CSS", "Next.js", "Python", "LLM"
+      ],
+      "teamLeader": {
+        "name": "Ibrahim Adel Mostafa",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Hamdy Emad Hamdy",
+        "Eyad Mahmoud Ali",
+        "Ali Nashat Hamedo",
+        "Khaled Emad-ElDin Omar",
+        "Fahd Mostafa Ahmed",
+        "Hady Fawzy Hassan",
+        "Mahmoud Ahmed Mostafa",
+        "Youssef Osama Ibrahim",
+        "Mariam Mostafa Rizk"
+      ],
+      "supervisors": [
+        "Dr Mohamed Yasien",
+        "Eng Mohamed Hamdy"
+      ]
+    },
+    "smart-guard": {
+      "title": "Smart Guard",
+      "description": "Museums are among the most prominent institutions that preserve the history and culture of peoples, housing priceless artifacts. With the increasing incidence of museum vandalism and theft, there is an urgent need to develop smart security systems that enhance the safety of these vital facilities. In this project, we propose an integrated museum security system based on modern technologies, including sensors, lasers, and cameras, along with a mobile application that links the system directly to the museum's management. This system aims to detect any theft or intrusion early and immediately alert officials, ensuring the protection of artifacts from tampering or theft.\nThis project aims to design and implement an integrated smart security system to secure the museum using modern technologies, including laser sensors, motion-sensitive buttons, surveillance cameras, and a mobile application that links the system directly to the museum's management. This system detects any attempted intrusion or theft early and immediately alerts officials.\nThe project's importance lies in its provision of a proactive solution that combines physical and digital protection, increasing the efficiency of the security system and reducing reliance on human resources. It is also suitable for implementation in various types of museums, both large and small, and enhances the preservation of cultural heritage from loss or damage.",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_Guard/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_Guard/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart_Guard/image_3.jpg"
+      ],
+      "video": "https://www.mediafire.com/file/i8lrjfhz942244a/VIDO.zip/file",
+      "tags": [
+        "C++"
+      ],
+      "teamLeader": {
+        "name": "Hassan Tarek H ASSA",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "HASSAN AHMED",
+        "SALMAN ABED ELRAOUF",
+        "OSAMA ALI",
+        "AHMED MOHAMED HAMAD",
+        "OMAR EBRAHIEM SAEED",
+        "ROMANYMREZK",
+        "MAHNOUD MOHAMED",
+        "YOUSSEF HASSAN",
+        "MOHAMED KHALED",
+        "MOHAMED GAMAL"
+      ],
+      "supervisors": [
+        "DR.MOHAMED SOPH",
+        "ENG.MOHAMED AMMAR"
+      ]
+    },
+    "mimicbot": {
+      "title": "MimicBot",
+      "description": "This project presents a 3D-printed robotic arm capable of moving horizontally and vertically within a defined area. It interacts with users by playing games such as chess, tic-tac-toe, and rock-paper-scissors. The arm can be manually controlled via a connected program or can move in sync with the user's arm using wearable sensors. The goal of the project is to develop a versatile robotic arm that enhances human-robot interaction and serves as both an educational and entertaining tool. It integrates advanced technologies like 3D printing and biosensors to provide a hands-on learning experience. The target audience includes engineering and robotics students, educational institutions, those interested in human-machine interaction technologies, and children and teenagers seeking interactive and fun learning methods.",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/MimicBot/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/MimicBot/image_2.jpg"
+      ],
+      "video": "https://drive.google.com/drive/folders/1lsY9uMwjl33v537Pj4fz1JcE6BBDNvI3?usp=sharing",
+      "tags": [
+        "Python", "C++", "YOLOv8"
+      ],
+      "teamLeader": {
+        "name": "Seif Hatem",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Mazen Hamada + Mohamed Ahmed + Hamaza Wael  + Mostafa Hussein + Youssef Adel + Lavina Osama + Jasmine Ehab + Sara Sayed + Mirna Mostafa"
+      ],
+      "supervisors": [
+        "Dr. Hend Zeyada - Eng.Yasmine"
+      ]
+    },
+    "aegis-ai": {
+      "title": "AEGIS-AI",
+      "description": "This project, titled \"Aegis AI,\" presents \nthe complete design, development, training, \nand deployment of a comprehensive, web\nbased system built from scratch for the real\ntime detection and classification of these \ndiverse digital threats. The core of the system \nis a custom-trained Natural Language \nProcessing (NLP) model based on the robust \nDistilBERT architecture. Recognizing the \nlimitations of generic models, we curated and \naugmented a specialized dataset of 7,500 text \nsamples. This dataset was meticulously \nstructured to cover 14 distinct categories: 13",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/AEGIS-AI/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/AEGIS-AI/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/AEGIS-AI/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/AEGIS-AI/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/AEGIS-AI/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1hj54-yLq8bQQVItbPGxBRRlO7xDkVPcB/preview?usp=sharing",
+      "tags": [
+        "JavaScript", "HTML", "CSS", "Machine Learning", "Python", "Flask"
+      ],
+      "teamLeader": {
+        "name": "Ahmed Waleed Mohameed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Ahmed Waleed Mohamed                                           Ali Akram Abdelmohsen",
+        "Mohamed Khaled Saied                                              Hassan Hamdy Abdellah",
+        "Mahmoud Ahmed Gaber                                             Ahmed Abdellah Ahmed",
+        "Mohamed Mostafa Shawqy                                         Osama Hany Huesin"
+      ],
+      "supervisors": [
+        "Dr. Sayed El far -- Eng. Amany"
+      ]
+    },
+    "smart--ai-firewall": {
+      "title": "Smart  AI-Firewall",
+      "description": "The \"Smart Firewall\" project aims to develop and detect cyber attacks such as DDoS, brute force, malware, and portscan using an AI-trained model. This model automatically detects attacks in real time and sends alerts via the interface to network administrators.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart__AI-Firewall/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart__AI-Firewall/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Smart__AI-Firewall/image_3.jpg"
+      ],
+      "video": "Ok",
+      "tags": [
+        "Python", "Linux", "Wireshark", "Windows", "HTML", "CSS", "JavaScript", "React"
+      ],
+      "teamLeader": {
+        "name": "Mahmoud A Ulqadir Mohamed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Mahmoud A ulqadir ,  Amr Gamal , Abdelrahman Ahmed, Mohamed Mohamed Atia , Ahmed mahmoud  , belal saed , Ahmed hosniy , Anas Mohamed fathy"
+      ],
+      "supervisors": [
+        "Dr.Hind Zeydada  , Eng.habiba Hamed"
+      ]
+    },
+    "max-ai-agent": {
+      "title": "Max Ai Agent",
+      "description": "MAX is a modular AI assistant powered by GPT\n4o-mini and integrated into Telegram via N8N. It \nfeatures specialized agents for tasks like email, \ncalendar, and content management. With \ncontextual memory and a multi-agent system, \nMAX offers smart, adaptive, and efficient \nautomation to boost productivity and reduce",
+      "department": "data-science",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Max_Ai_Agent/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Max_Ai_Agent/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Max_Ai_Agent/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Max_Ai_Agent/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Max_Ai_Agent/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/drive/folders/10ynXDPGi022GF1oP2cxIvR6ZLQTPyPlK?usp=sharing",
+      "tags": [
+        "JSON", "n8n", "Google", "OpenAI", "Tavily", "Telegram API"
+      ],
+      "teamLeader": {
+        "name": "Ahmed Hamdto Ali",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "احمد حمدتو على مغازى",
+        "طه محمد عبدالقادر عوض الله",
+        "عبدالرحمن زكريا محمد السيد",
+        "محمود احمد محمد ابراهيم",
+        "علي السيد علي محمد",
+        "عبدالله علاء احمد مصيلحى",
+        "محمد احمد سالم عبداللطيف",
+        "محمد محمد احمد محمد",
+        "بلال ممدوح صبرة علي",
+        "علاء محمد ابو العباس المرسي",
+        "مصطفى على عبدالستار على احمد",
+        "احمد فادي عبدالفتاح صبري فريد"
+      ],
+      "supervisors": [
+        "dr. Abdel Salam Helmy  / eng.habiba hamid"
+      ]
+    },
+    "bobby-fischer": {
+      "title": "Bobby fischer",
+      "description": "A chess robotic arm that is capable of playing chess against a human using computer vision and inverse kalematics and Ai chess algorithm to make it able to play chess and we also added an easy interface web application and a mobile application as well that u can play offline chess and also against the computer itself and we also added a learning chess academy for both the the web and the app there is also Information about the history of chess legends and about there techniques so this is not just an entertainment robotic arm its also for learning and knowing more about the game",
+      "department": "ai",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Bobby_fischer/image_5.jpg"
+      ],
+      "video": "https://drive.google.com/drive/folders/1e6Hp3MQ3BXOI0WwXwZjTu7JadHA_Zdmd",
+      "tags": [
+        "Robotics", "Inverse Kinematics", "Mathematics", "Python", "C++", "HTML", "CSS", "JavaScript", "Flutter", "Firebase"
+      ],
+      "teamLeader": {
+        "name": "Ahmed mosalam mohamed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Ahmed Mosalam Mohamed",
+        "Ahmed Shaaban Emam",
+        "Ahmed Nasser Fahmy",
+        "Abdelrahman Essam Mahran",
+        "Ibrahim Mohamed Ibrahim",
+        "Ahmed Tarek",
+        "Zeyad Abdelhamid",
+        "Esraa Ahmed",
+        "Manar Ramadan",
+        "Hager Assem"
+      ],
+      "supervisors": [
+        "Eng : Naglaa Saeed",
+        "Dr : Marwa Elsayed"
+      ]
+    },
+    "yallachat": {
+      "title": "Yallachat",
+      "description": "This project proposes the development of a mobile messaging application called YallaChat, aiming to provide a secure, fast, and user-friendly platform for real-time communication.",
+      "department": "data-science",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Yallachat/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Yallachat/image_2.jpg"
+      ],
+      "video": "This project proposes the development of a mobile messaging application called YallaChat, aiming to provide a secure, fast, and user-friendly platform for real-time communication.",
+      "tags": [
+        "HTML", "CSS", "JavaScript"
+      ],
+      "teamLeader": {
+        "name": "Islam rabie Mohamed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "10"
+      ],
+      "supervisors": [
+        "Dr. Mohamed Yasin Ibrahim Afifi",
+        "Eng: Habiba Hamed Ahmed"
+      ]
+    },
+    "scanova": {
+      "title": "Scanova",
+      "description": "Scanova is a web application security scanner designed to identify and report security vulnerabilities. Featuring a modern design and an intuitive graphical user interface, Scanova enables security experts, developers, IT teams, penetration testers, and vulnerability hunters to proactively detect security threats before they are exploited. Scanova combines active and passive scanning techniques to perform comprehensive security assessments for a wide range of vulnerability categories, including SQL injections, cross-site scripting (XSS) attacks, CSRF attacks, file inclusion vulnerabilities, and many more. Thanks to its modular design, Scanova provides the flexibility to choose specific security tests to run based on project requirements.",
+      "department": "cybersecurity",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Scanova/image_1.jpg"
+      ],
+      "video": "https://drive.google.com/file/d/1l7e8RYGANLihmgN4KkNr3p-eSmQTsw3t/preview?usp=drive_link",
+      "tags": [
+        "Python", "PHP", "Bash", "CSS", "HTML", "JavaScript"
+      ],
+      "teamLeader": {
+        "name": "Ali Ahmed Sayed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "1.Ali Ahmed Sayed",
+        "2.Radwa Ahmed Amin",
+        "3.Ahmed Raafat Ibrahim",
+        "4.Mariam Mahmoud El-Sayed",
+        "5.Bakry Ali Bakry",
+        "6.Rokaya Mohamed Farouk",
+        "7.Tawfik Mohamed Tawfik",
+        "8.Rokaya Ahmed Hosny",
+        "9.Abdelrahman Medhat",
+        "10.Youssif Mohamed Abas",
+        "11.Malak Hany Abo-ELfotoh",
+        "12.Ahmed Sayed Ahmed",
+        "13.Youssif Mohamed Fathy"
+      ],
+      "supervisors": [
+        "DR / Mohsen Bendary",
+        "ENG / Nada Abdo"
+      ]
+    },
+    "alphaheart": {
+      "title": "AlphaHeart",
+      "description": "This project introduces a smart system for vital signs monitoring, medical appointment booking, locating nearby hospitals and pharmacies, and simplifying communication between doctors and patients. It includes a device measuring heart rate, body temperature, and ambient temperature. Data is sent to a mobile app and website, accessible to all users regardless of device ownership.",
+      "department": "It Department",
+      "images": [
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/alphaheart/image_1.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/alphaheart/image_2.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/alphaheart/image_3.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/alphaheart/image_4.jpg",
+        "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/alphaheart/image_5.jpg"
+      ],
+      "video": "https://ibb.co/7ddgLKj6",
+      "tags": [
+        "React 18.2.0", "HTML5", "CSS3", "Tailwind CSS", "Redux Toolkit", "Node.js", "Express.js", "MongoDB", "Mongoose", "Flutter", "Firebase"
+      ],
+      "teamLeader": {
+        "name": "Shehab Hosny Mohamed",
+        "role": "Project Lead"
+      },
+      "teamMembers": [
+        "Youssef Yasser Sayed",
+        "Asmaa Ibrahim Mohamed",
+        "Asmaa Mohamed Ahmed",
+        "Sirag Sayed Ahmed Hussein",
+        "Kirollos Girgis",
+        "Abdallah Tarek Mohamed",
+        "Asmaa Abdelhamid El-Khouly",
+        "Rahma Sherif",
+        "Mohanad Hussein",
+        "Abanoub George Ezzat",
+        "Taqa Ahmed Omar"
+      ],
+      "supervisors": [
+        "DR. sayed A Elfar",
+        "Eng. Abdulaziz"
+      ]
+    },
+    "text-to-speech": {
+      "title": "Text to Speech",
+      "description": "A smart text-to-speech system that analyzes written messages, detects the sentiment (positive, negative, neutral), identifies the topic, and reads the results using natural-sounding speech. The goal is to help users and companies quickly understand large amounts of written feedback. We built both a web application and an offline desktop app with a simple interface, where users can interact with the system easily. The project also includes educational sections to learn about speech processing and NLP techniques. This is not just a technical project, it’s also designed for learning and real-world use.",
+      "department": "ai",
+      "images": [
+       ],
+      "video": "https://drive.google.com/file/d/1Lg0mKtg8g0kEbsUme5kVDlh41JgWjukp/view?usp=sharing",
+      "tags": ["Text to Speech", "Sentiment Analysis", "Python", "HTML", "CSS", "Java"],
+      "teamLeader": {
+      "name": "Mohamed Al-Sejai Adham",
+      "role": "Project Lead"},
+      "teamMembers": [
+        "Mohamed Al-Sejai Adham (team leader)",
+        "Mohamed Shehata Ibrahim Ahmed",
+        "Mohammed Ahmed Mohammed",
+        "Mohamed Emad Ramadan",
+        "Mohamed Abdel Latif",
+        "Mohamed Ashraf Mahmoud Shawan",
+        "Mohamed Hassan Othman",
+        "Mahmoud Al-Khatib",
+        "Marwan Farid Attia",
+        "Hazem Mansour Misr",
+        "Mahmoud Hatem Mahmoud"],
+     "supervisors": [
+      "Dr. Mohsen Bendary",
+      "Eng. abdlaziz"]
+    },
+    "smart-ai-hospital-system": {
+  "title": "Smart AI Hospital System",
+  "description": "This project delivers an intelligent, fully integrated hospital‑management platform that unifies administrative and clinical operations on a single digital backbone. It supports multilingual workflows (Arabic, English, and more) and offers comprehensive handling of personal details, medical records, specialist notes, laboratory results, radiology images, and longitudinal health data. Patients log in to secure personal dashboards to review their complete records, while authorised staff manage doctors, nurses, emergency physicians, ICU teams, lab and radiology technicians, and administrative users through role‑based access controls.\n\nA flagship capability is the Smart Emergency Request: one press of the SOS button on a patient’s dashboard transmits a real‑time alert—with live geolocation—to the hospital’s emergency desk. Staff immediately see the patient’s full profile and can dispatch an appropriate medical team to the reported location.\n\nKey features include:\n• Multilingual user interface\n• End‑to‑end patient, doctor, and staff management\n• Live‑location emergency alerts\n• Digital patient profiles (reports, labs, imaging)\n• Role‑based permissions (admin, doctor, nurse, etc.)\n• Modern 3‑D‑style user experience\n• Scalable architecture suitable for hospitals, clinics, and health centres",
+  "department": "health‑informatics",
+  "images": [],
+  "video": "https://drive.google.com/file/d/1hSoudiL0bAVeUyXSDHLH8LQiNxBZZHtp/preview?usp=sharing",
+  "tags": [
+    "Python", "Flask", "Django", "HTML", "CSS", "JavaScript",
+    "MySQL", "Google Maps API", "Firebase", "WebSocket"
+  ],
+"teamLeader": {
+    "name": "Mostafa Abdalnaser Mostafa",
+    "role": "Project Lead"
+  },
+  "teamMembers": [
+    "Mohamed Reda Atef",
+    "Abdelrahman Hindi Mabrouk",
+    "Abdelrahman Shaaban Soltan",
+    "Ahmed Sobhy Mokhtar",
+    "Yasmin Moawad Gamal",
+    "Ramzy Mohsen Ramzy",
+    "Seif Selim Abdelazim",
+    "Amir Eskaros Gedeon",
+    "Hesham Naseem Ali",
+    "Ali Atiya Ali"
+  ],
+  "supervisors": [
+    "Dr. Anwer Sayed",
+    "Eng. Walaa Gomaa Mohamed"
+  ]
+}
+  }
+}
