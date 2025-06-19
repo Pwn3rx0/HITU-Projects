@@ -88,11 +88,21 @@
         "HTML", "CSS", "JavaScript", "Bootstrap", "SQL", "PHP"
       ],
       "teamLeader": {
-        "name": "محمد هاني مصطفي عبدالرحمن",
+        "name": "Mohamed Hany Mostafa",
         "role": "Project Lead (data leader)"
       },
       "teamMembers": [
-        "11"
+        "Mohamed Hany Mostafa", 
+        "Ahmed Mohamed Hamed",
+        "Ali ahmed abdelsadek",
+        "Eyad Ahmed Elsayed",
+        "Moaaz Elnabawy Ahmed",
+        "Michel Magdy Farag ",
+        "Salwa Mohamed Gamil ",
+        "Malak Yasser Abdelsalam", 
+        "Sara Mohamed Zidan ",
+        "Hager Mohamed Saad ",
+        "Kolob Attia Ahmed"
       ],
       "supervisors": [
         "دكتور محمد ياسين / المهندسه أماني"
