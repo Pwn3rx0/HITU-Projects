@@ -78,7 +78,7 @@
       },
     "media-track": {
       "title": "Media track",
-      "description": "ويب ابليكيشن لحجز مستشفيات و معامل و صيدليات بتوفر علي المستخدم وقت كبير و بيقدر انو يحتفظ بالسجل المرضي بتاعه علي الاكونت و بيكون عندو التحاليل و الاشعات و كل حاجه مرفوعه بحيث لو نسيها تبقا موجوده",
+      "description": "A web application for booking hospitals, laboratories, and pharmacies that saves users a lot of time. It also allows them to keep their medical records stored on their account, including test results, scans, and everything else uploaded, so they can access them anytime in case they forget.",
       "department": "data-science",
       "images": [
         "https://raw.githubusercontent.com/Pwn3rx0/HITU-Projects/refs/heads/main/images/Media_track/image_1.jpg"
